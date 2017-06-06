@@ -21,7 +21,12 @@ public class CommonContext {
         personList.add(new Person("jiahao", "male", 15000));
         personList.add(new Person("max", "female", 30000));
         personList.add(new Person("jason", "male", 40000));
+        personList.add(new Person("felix", null, null));
         return personList;
+    }
+
+    public static Person getDefaultPerson() {
+        return Person.DEFAULT_PERSON;
     }
 
     public static List<String> getStrings() {

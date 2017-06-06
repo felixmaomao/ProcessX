@@ -43,9 +43,11 @@ public class Person {
         this.setSex(sex);
     }
 
-    public Person(String name,String sex,Integer salary){
+    public Person(String name, String sex, Integer salary) {
         this.setName(name);
         this.setSex(sex);
         this.setSalary(salary);
     }
+
+    public static Person DEFAULT_PERSON = new Person("NotKnow", "NotKnow", 0);
 }
