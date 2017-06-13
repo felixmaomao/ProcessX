@@ -7,59 +7,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed203959-e1aa-47e3-bb07-38e55843f7f4" name="Default" comment="lambda test">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/lambda/OptionalChain.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/lambda/OptionalOf.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/lambda/OptionalOrElse.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/lambda/OptionalTest.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/Entity/Person.class" afterPath="$PROJECT_DIR$/target/classes/Entity/Person.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/IDCard/IDCardUtil.class" afterPath="$PROJECT_DIR$/target/classes/IDCard/IDCardUtil.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/InnerClass/AnonymousTest$1.class" afterPath="$PROJECT_DIR$/target/classes/InnerClass/AnonymousTest$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/InnerClass/AnonymousTest.class" afterPath="$PROJECT_DIR$/target/classes/InnerClass/AnonymousTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/InnerClass/InnerTest.class" afterPath="$PROJECT_DIR$/target/classes/InnerClass/InnerTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/InnerClass/Listener.class" afterPath="$PROJECT_DIR$/target/classes/InnerClass/Listener.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/InnerClass/Outer$Inner.class" afterPath="$PROJECT_DIR$/target/classes/InnerClass/Outer$Inner.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/InnerClass/Outer.class" afterPath="$PROJECT_DIR$/target/classes/InnerClass/Outer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/collection/LambdaTest.class" afterPath="$PROJECT_DIR$/target/classes/collection/LambdaTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/collection/ListFilter.class" afterPath="$PROJECT_DIR$/target/classes/collection/ListFilter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/collection/ListUtil.class" afterPath="$PROJECT_DIR$/target/classes/collection/ListUtil.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/collection/MapTest.class" afterPath="$PROJECT_DIR$/target/classes/collection/MapTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/common/CommonContext.class" afterPath="$PROJECT_DIR$/target/classes/common/CommonContext.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/common/PrintUtil.class" afterPath="$PROJECT_DIR$/target/classes/common/PrintUtil.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/generic/genericTest.class" afterPath="$PROJECT_DIR$/target/classes/generic/genericTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/io/IoTest.class" afterPath="$PROJECT_DIR$/target/classes/io/IoTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/json/GfJsonUtil.class" afterPath="$PROJECT_DIR$/target/classes/json/GfJsonUtil.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lambda/ConsumerTest.class" afterPath="$PROJECT_DIR$/target/classes/lambda/ConsumerTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lambda/FileFilter.class" afterPath="$PROJECT_DIR$/target/classes/lambda/FileFilter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lambda/FileFilterTest.class" afterPath="$PROJECT_DIR$/target/classes/lambda/FileFilterTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lambda/FilterNullTest.class" afterPath="$PROJECT_DIR$/target/classes/lambda/FilterNullTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lambda/FunctionTest.class" afterPath="$PROJECT_DIR$/target/classes/lambda/FunctionTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lambda/Hotel.class" afterPath="$PROJECT_DIR$/target/classes/lambda/Hotel.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lambda/OptionalTest.class" afterPath="$PROJECT_DIR$/target/classes/lambda/OptionalTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lambda/PersonFilter.class" afterPath="$PROJECT_DIR$/target/classes/lambda/PersonFilter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lambda/StreamCollectTest.class" afterPath="$PROJECT_DIR$/target/classes/lambda/StreamCollectTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lambda/StreamTest.class" afterPath="$PROJECT_DIR$/target/classes/lambda/StreamTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lambda/StreamTest2.class" afterPath="$PROJECT_DIR$/target/classes/lambda/StreamTest2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lambda/WakeUp.class" afterPath="$PROJECT_DIR$/target/classes/lambda/WakeUp.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lambda/WakeUpTest.class" afterPath="$PROJECT_DIR$/target/classes/lambda/WakeUpTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lambda/computeIfAbsentTest.class" afterPath="$PROJECT_DIR$/target/classes/lambda/computeIfAbsentTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lambda/predicateTest.class" afterPath="$PROJECT_DIR$/target/classes/lambda/predicateTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lambda/predicateTest2.class" afterPath="$PROJECT_DIR$/target/classes/lambda/predicateTest2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/md5/MD5Utils.class" afterPath="$PROJECT_DIR$/target/classes/md5/MD5Utils.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/md5/Md5Test.class" afterPath="$PROJECT_DIR$/target/classes/md5/Md5Test.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/mq/JMSConsumer.class" afterPath="$PROJECT_DIR$/target/classes/mq/JMSConsumer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/mq/JMSProducer.class" afterPath="$PROJECT_DIR$/target/classes/mq/JMSProducer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/mq/Listener.class" afterPath="$PROJECT_DIR$/target/classes/mq/Listener.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/mq/mqSpring/TopicListener.class" afterPath="$PROJECT_DIR$/target/classes/mq/mqSpring/TopicListener.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/mq/mqSpring/TopicReceiver.class" afterPath="$PROJECT_DIR$/target/classes/mq/mqSpring/TopicReceiver.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/mq/mqSpring/TopicSender.class" afterPath="$PROJECT_DIR$/target/classes/mq/mqSpring/TopicSender.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/primative/IntegerTest.class" afterPath="$PROJECT_DIR$/target/classes/primative/IntegerTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/primative/StringTest.class" afterPath="$PROJECT_DIR$/target/classes/primative/StringTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/redis/RedisManager.class" afterPath="$PROJECT_DIR$/target/classes/redis/RedisManager.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/redis/test/PipelineTest.class" afterPath="$PROJECT_DIR$/target/classes/redis/test/PipelineTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/string/StringSplitTest.class" afterPath="$PROJECT_DIR$/target/classes/string/StringSplitTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/lambda/OptionalFlatMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/lambda/OptionalIfPresent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/lambda/OptionalMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/lambda/OptionalOrElseGet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/lambda/OptionalOrElseThrow.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/primative/BigDecimalRound.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/primative/splitTest.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/lambda/OptionalOf.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/lambda/OptionalOf.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lambda/OptionalOrElse.class" afterPath="$PROJECT_DIR$/target/classes/lambda/OptionalOrElse.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Entity/Person.java" afterPath="$PROJECT_DIR$/src/main/java/Entity/Person.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/common/CommonContext.java" afterPath="$PROJECT_DIR$/src/main/java/common/CommonContext.java" />
     </list>
     <ignored path="springAction.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -100,23 +58,103 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="OptionalOf.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lambda/OptionalOf.java">
+      <file leaf-file-name="OptionalChain.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lambda/OptionalChain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
-              <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+            <state relative-caret-position="513">
+              <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OptionalOrElse.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lambda/OptionalOrElse.java">
+      <file leaf-file-name="StringTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/primative/StringTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" column="37" lean-forward="true" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+            <state relative-caret-position="190">
+              <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="splitTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/primative/splitTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#180#181#0" expanded="true" />
+                <element signature="e#236#237#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OptionalOrElseGet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lambda/OptionalOrElseGet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="16" column="36" lean-forward="false" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BigDecimalRound.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/primative/BigDecimalRound.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="5" lean-forward="false" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OptionalMap.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lambda/OptionalMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OptionalIfPresent.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lambda/OptionalIfPresent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="10" column="3" lean-forward="false" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OptionalOrElseThrow.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lambda/OptionalOrElseThrow.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="32" lean-forward="false" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OptionalFlatMap.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lambda/OptionalFlatMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding>
+                <element signature="e#208#209#0" expanded="false" />
+                <element signature="e#266#267#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -125,23 +163,12 @@
       <file leaf-file-name="CommonContext.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/common/CommonContext.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
+            <state relative-caret-position="228">
               <caret line="15" column="31" lean-forward="false" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
               <folding>
-                <element signature="e#821#822#0" expanded="true" />
-                <element signature="e#865#866#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OptionalChain.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lambda/OptionalChain.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="29" column="1" lean-forward="false" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#821#822#0" expanded="false" />
+                <element signature="e#865#866#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -190,12 +217,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/process/src/controller/taskController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/process/src/utils/GfJsonUtil.java" />
-        <option value="$PROJECT_DIR$/src/main/java/process/src/service/TaskService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/process/src/controller/TaskController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/process/src/service/impl/TaskServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/process/src/utils/MultipleDataSource.java" />
         <option value="$PROJECT_DIR$/src/main/java/process/src/utils/DataSourceExchange.java" />
         <option value="$PROJECT_DIR$/src/main/java/process/resources/appcontext/app-spring-mvc-basedata.xml" />
         <option value="$PROJECT_DIR$/src/main/java/process/resources/appcontext/app-db-mysql-basedata.xml" />
@@ -241,6 +262,12 @@
         <option value="$PROJECT_DIR$/src/main/java/Entity/Person.java" />
         <option value="$PROJECT_DIR$/src/main/java/common/CommonContext.java" />
         <option value="$PROJECT_DIR$/src/main/java/lambda/OptionalOrElse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lambda/OptionalOrElseGet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lambda/OptionalMap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lambda/OptionalIfPresent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lambda/OptionalFlatMap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/primative/BigDecimalRound.java" />
+        <option value="$PROJECT_DIR$/src/main/java/primative/splitTest.java" />
       </list>
     </option>
   </component>
@@ -348,7 +375,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -405,38 +431,13 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="lambda" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="springAction" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Processx" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Entity" />
+              <option name="myItemId" value="primative" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -474,75 +475,15 @@
       <recent name="F:\Personal\Process\src\main\java\process\src\utils" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.OptionalOrElse">
-    <configuration default="false" name="StreamCollectTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.splitTest">
+    <configuration default="false" name="OptionalMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="lambda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="lambda.StreamCollectTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="springAction" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="StringSplitTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="string.StringSplitTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="springAction" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="FilterNullTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="lambda.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="lambda.FilterNullTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="springAction" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="OptionalChain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="lambda.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="lambda.OptionalChain" />
+      <option name="MAIN_CLASS_NAME" value="lambda.OptionalMap" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -555,14 +496,74 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="OptionalOrElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="OptionalIfPresent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="lambda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="lambda.OptionalOrElse" />
+      <option name="MAIN_CLASS_NAME" value="lambda.OptionalIfPresent" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="process" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="OptionalFlatMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="lambda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="lambda.OptionalFlatMap" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="process" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="BigDecimalRound" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="primative.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="primative.BigDecimalRound" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="process" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="splitTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="primative.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="primative.splitTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -1063,19 +1064,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Tomcat Server.Unnamed" />
-      <item index="1" class="java.lang.String" itemvalue="Application.StreamCollectTest" />
-      <item index="2" class="java.lang.String" itemvalue="Application.StringSplitTest" />
-      <item index="3" class="java.lang.String" itemvalue="Application.FilterNullTest" />
-      <item index="4" class="java.lang.String" itemvalue="Application.OptionalChain" />
-      <item index="5" class="java.lang.String" itemvalue="Application.OptionalOrElse" />
+      <item index="1" class="java.lang.String" itemvalue="Application.OptionalMap" />
+      <item index="2" class="java.lang.String" itemvalue="Application.OptionalIfPresent" />
+      <item index="3" class="java.lang.String" itemvalue="Application.OptionalFlatMap" />
+      <item index="4" class="java.lang.String" itemvalue="Application.BigDecimalRound" />
+      <item index="5" class="java.lang.String" itemvalue="Application.splitTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.OptionalOrElse" />
-        <item index="1" class="java.lang.String" itemvalue="Application.OptionalChain" />
-        <item index="2" class="java.lang.String" itemvalue="Application.FilterNullTest" />
-        <item index="3" class="java.lang.String" itemvalue="Application.StringSplitTest" />
-        <item index="4" class="java.lang.String" itemvalue="Application.StreamCollectTest" />
+        <item index="0" class="java.lang.String" itemvalue="Application.splitTest" />
+        <item index="1" class="java.lang.String" itemvalue="Application.BigDecimalRound" />
+        <item index="2" class="java.lang.String" itemvalue="Application.OptionalFlatMap" />
+        <item index="3" class="java.lang.String" itemvalue="Application.OptionalIfPresent" />
+        <item index="4" class="java.lang.String" itemvalue="Application.OptionalMap" />
       </list>
     </recent_temporary>
   </component>
@@ -1130,7 +1131,11 @@
       <workItem from="1494936756226" duration="678000" />
       <workItem from="1494988333896" duration="111000" />
       <workItem from="1495098767092" duration="269000" />
-      <workItem from="1496741499234" duration="5075000" />
+      <workItem from="1496741499234" duration="9940000" />
+      <workItem from="1496918628152" duration="912000" />
+      <workItem from="1496975027554" duration="613000" />
+      <workItem from="1497246316906" duration="1620000" />
+      <workItem from="1497346487024" duration="813000" />
     </task>
     <task id="LOCAL-00001" summary="lambda test">
       <created>1487929258014</created>
@@ -1196,10 +1201,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="130682000" />
+    <option name="totallyTimeSpent" value="139505000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1066" extended-state="7" />
+    <frame x="1912" y="-8" width="1936" height="1066" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1221,10 +1226,10 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295082" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.42209944" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42209944" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295082" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295082" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23560767" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20362474" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1303,16 +1308,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/process/resources/appcontext/app-db-mysql-basedata.xml" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/process/resources/appcontext/app-db-redis-basedata.xml" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/process/resources/appcontext/app-spring-bean-basedata.xml" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/process/src/core/util/GfJsonUtil.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/process/src/core/context/BaseContext.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/process/src/core/annatation/InitClass.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/process/src/core/annatation/Startup.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/process/src/core/util/SortUtil.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/process/src/core/servlet/InitConfig.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/process/src/core/servlet/MonitoringServlet.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/process/resources/appcontext/app-spring-config-basedata.xml" />
     <entry file="file://$PROJECT_DIR$/META-INF/application.xml" />
     <entry file="file://$PROJECT_DIR$/src/main/java/process/resources-profile/dev/prop-db-mysql-basedata.properties" />
@@ -1484,7 +1479,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1492,7 +1486,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1508,27 +1501,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
           <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lambda/OptionalChain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="29" column="1" lean-forward="false" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lambda/OptionalOf.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1536,27 +1508,130 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
           <caret line="51" column="72" lean-forward="false" selection-start-line="51" selection-start-column="72" selection-end-line="51" selection-end-column="72" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lambda/OptionalOf.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/lambda/OptionalOrElse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="16" column="8" lean-forward="false" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="143" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../Java/jdk/src.zip!/java/util/Optional.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="265" column="28" lean-forward="false" selection-start-line="265" selection-start-column="28" selection-end-line="265" selection-end-column="28" />
+          <folding>
+            <element signature="e#9141#9142#0" expanded="false" />
+            <element signature="e#9199#9200#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../Java/jdk/src.zip!/java/util/function/Supplier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="40" column="17" lean-forward="false" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lambda/OptionalMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/common/CommonContext.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
+        <state relative-caret-position="228">
           <caret line="15" column="31" lean-forward="false" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
           <folding>
-            <element signature="e#821#822#0" expanded="true" />
-            <element signature="e#865#866#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#821#822#0" expanded="false" />
+            <element signature="e#865#866#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lambda/OptionalOrElse.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/lambda/OptionalIfPresent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="37" lean-forward="true" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+        <state relative-caret-position="171">
+          <caret line="10" column="3" lean-forward="false" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lambda/OptionalOrElseThrow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="32" lean-forward="false" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lambda/OptionalFlatMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="e#208#209#0" expanded="false" />
+            <element signature="e#266#267#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lambda/OptionalOrElseGet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="16" column="36" lean-forward="false" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/primative/BigDecimalRound.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="5" lean-forward="false" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lambda/OptionalChain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/primative/StringTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/primative/splitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <element signature="e#180#181#0" expanded="true" />
+            <element signature="e#236#237#0" expanded="true" />
           </folding>
         </state>
       </provider>
