@@ -13,7 +13,7 @@ import java.util.List;
  * @author shenwei
  * @create 2017-02-24
  */
-public class predicateTest2 {
+public class PredicateTest2 {
     public static void main(String[] args) {
         List<Person> personList = CommonContext.getPersons();
         List<Person> females = PersonFilter.filter(p -> p.getSex() == "female", personList);

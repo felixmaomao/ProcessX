@@ -16,7 +16,8 @@ public class OptionalOrElse {
         // orElse 设置为空默认值
         Person person = CommonContext.getPersons().stream().filter(x -> x.getName().equals("Felix")).findFirst().orElse(Person.DEFAULT_PERSON);
         PrintUtil.printInfo(person);
-        //既然只需要提供默认值,那通过一个方法来提供自然也是可以的
+
+        //既然只需要提供默认值,那通过一个方法来提供自然也是可以的 但是这种写法既是前面存在匹元素 OrElse中的方法依旧会执行,浪费性能
         Person person1 = CommonContext.getPersons().stream().filter(x -> x.getName().equals("felix")).findFirst().orElse(CommonContext.getDefaultPerson());
         PrintUtil.printInfo(person1);
     }

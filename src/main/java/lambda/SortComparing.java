@@ -4,6 +4,7 @@ package lambda;/**
 
 import Entity.Person;
 import common.CommonContext;
+import common.PrintUtil;
 
 import java.util.Comparator;
 import java.util.List;
@@ -15,7 +16,8 @@ import java.util.stream.Collectors;
  */
 public class SortComparing {
     public static void main(String[] args) {
-        List<Person> sortedPersons = CommonContext.getPersons().stream().sorted(Comparator.comparing(x -> x.getSex())).collect(Collectors.toList());
-
+        // java8 链式排序
+        List<Person> sortedPersons = CommonContext.getPersons().stream().sorted(Comparator.comparing((Person x) -> x.getSalary()).thenComparing((Person x) -> x.getName())).collect(Collectors.toList());
+        PrintUtil.printInfo(sortedPersons);
     }
 }

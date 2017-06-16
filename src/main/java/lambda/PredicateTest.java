@@ -12,7 +12,7 @@ import java.util.function.Predicate;
  * @author shenwei
  * @create 2017-02-24
  */
-public class predicateTest {
+public class PredicateTest {
 
 
     public static void main(String[] args) {

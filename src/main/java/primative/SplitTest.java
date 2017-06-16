@@ -6,7 +6,7 @@ package primative;/**
  * @author shenwei
  * @create 2017-06-13
  */
-public class splitTest {
+public class SplitTest {
     public static void main(String[] args) {
         System.out.println("".split(";").length);
     }

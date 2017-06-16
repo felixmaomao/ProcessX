@@ -11,7 +11,7 @@ import java.util.Map;
  * @author shenwei
  * @create 2017-05-09
  */
-public class computeIfAbsentTest {
+public class ComputeIfAbsentTest {
     private final Map<String, Person> allTwitterUsers = new HashMap<>();
 
     public void onMessage(String twitterHandle) {
