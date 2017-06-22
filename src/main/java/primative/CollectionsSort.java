@@ -32,14 +32,18 @@ public class CollectionsSort {
 
         //step2
         //稍微简洁一点的写法 但是这里必须指明类型 多条件排序
-        Collections.sort(persons, Comparator.comparing((Person x) -> Optional.ofNullable(x.getSalary()).orElse(0)).thenComparing((Person x) -> x.getName()));
+        //Collections.sort(persons, Comparator.comparing((Person x) -> Optional.ofNullable(x.getSalary()).orElse(0)).thenComparing((Person x) -> x.getName()));
         //这样子写则不行 让人费解 具体原因仍不知
         //Collections.sort(persons, Comparator.comparing(x -> Optional.ofNullable(x.getSalary()).orElse(0)).thenComparing(x -> x.getName()));
-        PrintUtil.printInfo(persons);
+        //PrintUtil.printInfo(persons);
         //上面两种排完之后,list里面的数据就已经发生了变化
 
         //step3
-        List<Person> sortedPersons = persons.stream().sorted(Comparator.comparing((Person x) -> x.getSalary()).thenComparing((Person x) -> x.getName())).collect(Collectors.toList());
-        PrintUtil.printInfo(sortedPersons);
+        //List<Person> sortedPersons = persons.stream().sorted(Comparator.comparing((Person x) -> x.getSalary()).thenComparing((Person x) -> x.getName())).collect(Collectors.toList());
+        //PrintUtil.printInfo(sortedPersons);
+
+        //step4
+        persons.sort(Comparator.comparing((Person x) -> Optional.ofNullable(x.getSex()).orElse("未知")).reversed());
+        PrintUtil.printInfo(persons);
     }
 }
