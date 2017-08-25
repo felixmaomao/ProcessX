@@ -2,7 +2,7 @@ package lambda;/**
  * Created by shenwei on 2017/6/6.
  */
 
-import Entity.Person;
+import entity.Person;
 import common.CommonContext;
 import common.PrintUtil;
 

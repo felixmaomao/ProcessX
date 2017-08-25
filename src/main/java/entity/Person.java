@@ -1,4 +1,4 @@
-package Entity;/**
+package entity;/**
  * Created by shenwei on 2017/2/23.
  */
 

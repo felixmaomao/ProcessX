@@ -2,7 +2,7 @@ package reflection;/**
  * Created by shenwei on 2017/7/20.
  */
 
-import Entity.Person;
+import entity.Person;
 
 /**
  * @author shenwei

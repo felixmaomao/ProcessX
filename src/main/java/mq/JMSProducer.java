@@ -10,11 +10,8 @@ import javax.jms.MessageProducer;
 import javax.jms.Session;
 import javax.jms.TextMessage;
 
-import Entity.Person;
+import entity.Person;
 import json.GfJsonUtil;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
-import org.apache.activemq.ActiveMQConnection;
 import org.apache.activemq.ActiveMQConnectionFactory;
 
 /**

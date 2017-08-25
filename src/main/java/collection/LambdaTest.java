@@ -2,7 +2,7 @@ package collection;/**
  * Created by shenwei on 2017/3/21.
  */
 
-import Entity.Person;
+import entity.Person;
 import common.PrintUtil;
 
 import java.util.ArrayList;

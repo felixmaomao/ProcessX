@@ -2,7 +2,7 @@ package primative;/**
  * Created by shenwei on 2017/2/23.
  */
 
-import Entity.Person;
+import entity.Person;
 
 /**
  * @author shenwei

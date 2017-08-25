@@ -1,4 +1,4 @@
-package InnerClass;
+package innerClass;
 
 /**
  * Created by shenwei on 2017/2/25.

@@ -2,7 +2,7 @@ package lambda;/**
  * Created by shenwei on 2017/2/24.
  */
 
-import Entity.Person;
+import entity.Person;
 import common.CommonContext;
 
 import java.util.List;

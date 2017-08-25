@@ -1,4 +1,4 @@
-package IDCard;/**
+package idCard;/**
  * Created by shenwei on 2017/3/13.
  */
 

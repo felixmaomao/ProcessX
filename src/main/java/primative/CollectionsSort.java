@@ -2,15 +2,13 @@ package primative;/**
  * Created by shenwei on 2017/6/16.
  */
 
-import Entity.Person;
+import entity.Person;
 import common.CommonContext;
 import common.PrintUtil;
 
-import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 import java.util.Optional;
-import java.util.stream.Collectors;
 
 /**
  * @author shenwei

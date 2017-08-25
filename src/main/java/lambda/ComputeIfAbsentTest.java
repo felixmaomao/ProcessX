@@ -2,7 +2,7 @@ package lambda;/**
  * Created by shenwei on 2017/5/9.
  */
 
-import Entity.Person;
+import entity.Person;
 
 import java.util.HashMap;
 import java.util.Map;
