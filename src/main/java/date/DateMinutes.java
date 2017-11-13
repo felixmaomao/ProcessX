@@ -11,11 +11,12 @@ import java.util.Date;
  */
 public class DateMinutes {
     public static void main(String[] args) {
-        int minute= DateUtil.getDiffMinite(new Date(),tomorrow(new Date()));
-        System.out.println(minute);
+        System.out.println(anHourAgo());
     }
+
     /**
      * 返回昨天
+     *
      * @param today
      * @return
      */
@@ -27,14 +28,26 @@ public class DateMinutes {
     }
 
     /**
-     * 返回明天
-     * @param today
-     * @return
+     * @Author shenwei
+     * @Date 2017/10/10 14:34
+     * @Description 明天
      */
     public static Date tomorrow(Date today) {
         Calendar calendar = Calendar.getInstance();
         calendar.setTime(today);
         calendar.set(Calendar.DATE, calendar.get(Calendar.DATE) + 1);
         return calendar.getTime();
+    }
+
+    /**
+     * @Author shenwei
+     * @Date 2017/10/10 14:34
+     * @Description 一小时以前
+     */
+    public static Date anHourAgo() {
+        Calendar c = Calendar.getInstance();
+        c.setTime(new Date());
+        c.set(Calendar.HOUR_OF_DAY, c.get(Calendar.HOUR_OF_DAY) - 1);
+        return c.getTime();
     }
 }
