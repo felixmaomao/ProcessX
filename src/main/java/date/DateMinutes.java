@@ -11,7 +11,7 @@ import java.util.Date;
  */
 public class DateMinutes {
     public static void main(String[] args) {
-        System.out.println(anHourAgo());
+        System.out.println(DateUtil.preDate(59).toString());
     }
 
     /**
