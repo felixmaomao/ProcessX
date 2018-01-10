@@ -7,23 +7,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed203959-e1aa-47e3-bb07-38e55843f7f4" name="Default" comment="lambda test">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/primative/HashMapTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/date/DateMinutes.class" afterPath="$PROJECT_DIR$/target/classes/date/DateMinutes.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lambda/ConsumerTest.class" afterPath="$PROJECT_DIR$/target/classes/lambda/ConsumerTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lambda/FilterNullTest.class" afterPath="$PROJECT_DIR$/target/classes/lambda/FilterNullTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lambda/OptionalChain.class" afterPath="$PROJECT_DIR$/target/classes/lambda/OptionalChain.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lambda/OptionalIfPresent.class" afterPath="$PROJECT_DIR$/target/classes/lambda/OptionalIfPresent.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lambda/OptionalOfNullable.class" afterPath="$PROJECT_DIR$/target/classes/lambda/OptionalOfNullable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lambda/OptionalOrElse.class" afterPath="$PROJECT_DIR$/target/classes/lambda/OptionalOrElse.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lambda/OptionalOrElseGet.class" afterPath="$PROJECT_DIR$/target/classes/lambda/OptionalOrElseGet.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lambda/SortComparing.class" afterPath="$PROJECT_DIR$/target/classes/lambda/SortComparing.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lambda/StreamCollectTest.class" afterPath="$PROJECT_DIR$/target/classes/lambda/StreamCollectTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lambda/StreamTest.class" afterPath="$PROJECT_DIR$/target/classes/lambda/StreamTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lambda/predicateTest2.class" afterPath="$PROJECT_DIR$/target/classes/lambda/predicateTest2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/primative/CollectionsSort.class" afterPath="$PROJECT_DIR$/target/classes/primative/CollectionsSort.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/date/DateTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/primative/splitTest.class" afterPath="$PROJECT_DIR$/target/classes/primative/splitTest.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/date/DateMinutes.java" afterPath="$PROJECT_DIR$/src/main/java/date/DateMinutes.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/lambda/OptionalOfNullable.java" afterPath="$PROJECT_DIR$/src/main/java/lambda/OptionalOfNullable.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/primative/SplitTest.java" afterPath="$PROJECT_DIR$/src/main/java/primative/SplitTest.java" />
     </list>
     <ignored path="springAction.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -64,20 +51,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CommonContext.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/common/CommonContext.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="23" column="49" lean-forward="false" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
-              <folding>
-                <element signature="imports" expanded="false" />
-                <element signature="e#818#819#0" expanded="false" />
-                <element signature="e#862#863#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="PrintUtil.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/common/PrintUtil.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -97,9 +70,6 @@
               <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="false" />
-                <element signature="e#1420#1429#0" expanded="false" />
-                <element signature="e#2337#2346#0" expanded="false" />
-                <element signature="e#3112#3127#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -110,11 +80,17 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="247">
               <caret line="16" column="7" lean-forward="false" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
-              <folding>
-                <element signature="imports" expanded="false" />
-                <element signature="e#228#229#0" expanded="false" />
-                <element signature="e#295#296#0" expanded="false" />
-              </folding>
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DateTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/date/DateTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -124,17 +100,32 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="114">
               <caret line="8" column="3" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HashMapTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/primative/HashMapTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" column="26" lean-forward="false" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HashMapTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/primative/HashMapTest.java">
+      <file leaf-file-name="SplitTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/primative/SplitTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-              <folding />
+            <state relative-caret-position="247">
+              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding>
+                <element signature="e#180#181#0" expanded="true" />
+                <element signature="e#237#238#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -142,84 +133,18 @@
       <file leaf-file-name="DateUtil.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/date/DateUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20007">
-              <caret line="1123" column="0" lean-forward="false" selection-start-line="1123" selection-start-column="0" selection-end-line="1123" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="false" />
-                <element signature="e#1343#1344#0" expanded="false" />
-                <element signature="e#1397#1398#0" expanded="false" />
-                <element signature="e#1452#1453#0" expanded="false" />
-                <element signature="e#1511#1512#0" expanded="false" />
-                <element signature="e#1566#1567#0" expanded="false" />
-                <element signature="e#1625#1626#0" expanded="false" />
-                <element signature="e#1675#1676#0" expanded="false" />
-                <element signature="e#1728#1729#0" expanded="false" />
-                <element signature="e#1784#1785#0" expanded="false" />
-                <element signature="e#1844#1845#0" expanded="false" />
-                <element signature="e#1900#1901#0" expanded="false" />
-                <element signature="e#1960#1961#0" expanded="false" />
-                <element signature="e#2013#2014#0" expanded="false" />
-                <element signature="e#2071#2072#0" expanded="false" />
-                <element signature="e#2122#2123#0" expanded="false" />
-                <element signature="e#2176#2177#0" expanded="false" />
-                <element signature="e#2274#2275#0" expanded="false" />
-                <element signature="e#2316#2317#0" expanded="false" />
-                <element signature="e#2668#2669#0" expanded="false" />
-                <element signature="e#2699#2700#0" expanded="false" />
-                <element signature="e#3965#3966#0" expanded="false" />
-                <element signature="e#4011#4012#0" expanded="false" />
-                <element signature="e#5230#5231#0" expanded="false" />
-                <element signature="e#5278#5279#0" expanded="false" />
-                <element signature="e#5405#5406#0" expanded="false" />
-                <element signature="e#5453#5454#0" expanded="false" />
-                <element signature="e#5590#5591#0" expanded="false" />
-                <element signature="e#5637#5638#0" expanded="false" />
-                <element signature="e#5768#5769#0" expanded="false" />
-                <element signature="e#5810#5811#0" expanded="false" />
-                <element signature="e#5933#5934#0" expanded="false" />
-                <element signature="e#5975#5976#0" expanded="false" />
-                <element signature="e#6103#6104#0" expanded="false" />
-                <element signature="e#6150#6151#0" expanded="false" />
-                <element signature="e#8624#8625#0" expanded="false" />
-                <element signature="e#8665#8666#0" expanded="false" />
-                <element signature="e#8770#8771#0" expanded="false" />
-                <element signature="e#8806#8807#0" expanded="false" />
-                <element signature="e#8902#8903#0" expanded="false" />
-                <element signature="e#8938#8939#0" expanded="false" />
-                <element signature="e#9007#9008#0" expanded="false" />
-                <element signature="e#9052#9053#0" expanded="false" />
-                <element signature="e#9123#9124#0" expanded="false" />
-                <element signature="e#9163#9164#0" expanded="false" />
-                <element signature="e#9248#9249#0" expanded="false" />
-                <element signature="e#9303#9304#0" expanded="false" />
-                <element signature="e#9422#9423#0" expanded="false" />
-                <element signature="e#9456#9457#0" expanded="false" />
-                <element signature="e#9575#9576#0" expanded="false" />
-                <element signature="e#9624#9625#0" expanded="false" />
-                <element signature="e#9757#9758#0" expanded="false" />
-                <element signature="e#9796#9797#0" expanded="false" />
-                <element signature="e#9930#9931#0" expanded="false" />
-                <element signature="e#9984#9985#0" expanded="false" />
-                <element signature="e#10053#10054#0" expanded="false" />
-                <element signature="e#10077#10078#0" expanded="false" />
-                <element signature="e#12076#12077#0" expanded="false" />
-                <element signature="e#12100#12101#0" expanded="false" />
-                <element signature="e#16226#16227#0" expanded="false" />
-                <element signature="e#16273#16274#0" expanded="false" />
-                <element signature="e#23050#23051#0" expanded="false" />
-                <element signature="e#23099#23100#0" expanded="false" />
-                <element signature="e#23628#23629#0" expanded="false" />
-                <element signature="e#23660#23661#0" expanded="false" />
-              </folding>
+            <state relative-caret-position="8877">
+              <caret line="560" column="23" lean-forward="false" selection-start-line="560" selection-start-column="23" selection-end-line="560" selection-end-column="23" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FormatConfig.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="FormatConfig.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/date/FormatConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+            <state relative-caret-position="190">
+              <caret line="10" column="50" lean-forward="true" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
               <folding />
             </state>
           </provider>
@@ -278,8 +203,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/mq/mqSpring/TopicReceiver.java" />
-        <option value="$PROJECT_DIR$/src/main/java/spring-config.xml" />
         <option value="$PROJECT_DIR$/src/main/java/mq/mqSpring/TopicSender.java" />
         <option value="$PROJECT_DIR$/src/main/java/mq/mqSpring/TopicListener.java" />
         <option value="$PROJECT_DIR$/src/main/java/md5/MD5Utils.java" />
@@ -329,6 +252,8 @@
         <option value="$PROJECT_DIR$/src/main/java/lambda/OptionalOfNullable.java" />
         <option value="$PROJECT_DIR$/src/main/java/primative/HashMapTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/primative/SetTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/primative/SplitTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/date/DateTest.java" />
       </list>
     </option>
   </component>
@@ -421,22 +346,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
-      <pane id="PackagesPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="springAction" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TheProcess" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -493,12 +402,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="primative" />
+              <option name="myItemId" value="date" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="PackagesPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="springAction" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TheProcess" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -536,27 +461,7 @@
       <recent name="F:\Personal\Process\src\main\java\process\resources-profile\dev" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HashMapTest">
-    <configuration default="false" name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="network.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="network.Client" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="process" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.DateTest">
     <configuration default="false" name="DateMinutes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -565,26 +470,6 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="date.DateMinutes" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="process" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="StringDecode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="string.StringDecode" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -625,6 +510,46 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="primative.HashMapTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="process" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="SplitTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="primative.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="primative.SplitTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="process" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="DateTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="date.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="date.DateTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -1125,19 +1050,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Tomcat Server.Unnamed" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Client" />
-      <item index="2" class="java.lang.String" itemvalue="Application.DateMinutes" />
-      <item index="3" class="java.lang.String" itemvalue="Application.StringDecode" />
-      <item index="4" class="java.lang.String" itemvalue="Application.OptionalOfNullable" />
-      <item index="5" class="java.lang.String" itemvalue="Application.HashMapTest" />
+      <item index="1" class="java.lang.String" itemvalue="Application.DateMinutes" />
+      <item index="2" class="java.lang.String" itemvalue="Application.OptionalOfNullable" />
+      <item index="3" class="java.lang.String" itemvalue="Application.HashMapTest" />
+      <item index="4" class="java.lang.String" itemvalue="Application.SplitTest" />
+      <item index="5" class="java.lang.String" itemvalue="Application.DateTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.HashMapTest" />
-        <item index="1" class="java.lang.String" itemvalue="Application.OptionalOfNullable" />
-        <item index="2" class="java.lang.String" itemvalue="Application.DateMinutes" />
-        <item index="3" class="java.lang.String" itemvalue="Application.StringDecode" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Client" />
+        <item index="0" class="java.lang.String" itemvalue="Application.DateTest" />
+        <item index="1" class="java.lang.String" itemvalue="Application.SplitTest" />
+        <item index="2" class="java.lang.String" itemvalue="Application.HashMapTest" />
+        <item index="3" class="java.lang.String" itemvalue="Application.OptionalOfNullable" />
+        <item index="4" class="java.lang.String" itemvalue="Application.DateMinutes" />
       </list>
     </recent_temporary>
   </component>
@@ -1218,6 +1143,8 @@
       <workItem from="1511764252750" duration="705000" />
       <workItem from="1513907865420" duration="866000" />
       <workItem from="1514269894846" duration="469000" />
+      <workItem from="1514970164048" duration="1179000" />
+      <workItem from="1515554949962" duration="327000" />
     </task>
     <task id="LOCAL-00001" summary="lambda test">
       <created>1487929258014</created>
@@ -1283,11 +1210,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="177890000" />
+    <option name="totallyTimeSpent" value="179396000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1307,11 +1234,11 @@
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295082" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42116868" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295082" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295082" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295082" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25053304" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25586355" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1390,13 +1317,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/string/StringToBytes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/lambda/FilterNullTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
@@ -1423,13 +1343,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="14" column="5" lean-forward="false" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/primative/SplitTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1636,9 +1549,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="28" column="22" lean-forward="false" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1646,15 +1556,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="14" column="3" lean-forward="false" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/common/CommonContext.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="380">
           <caret line="23" column="49" lean-forward="false" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="false" />
@@ -1688,9 +1595,6 @@
           <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="false" />
-            <element signature="e#1420#1429#0" expanded="false" />
-            <element signature="e#2337#2346#0" expanded="false" />
-            <element signature="e#3112#3127#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1703,84 +1607,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/date/DateUtil.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/lambda/OptionalOfNullable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20007">
-          <caret line="1123" column="0" lean-forward="false" selection-start-line="1123" selection-start-column="0" selection-end-line="1123" selection-end-column="0" />
+        <state relative-caret-position="114">
+          <caret line="8" column="3" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="false" />
-            <element signature="e#1343#1344#0" expanded="false" />
-            <element signature="e#1397#1398#0" expanded="false" />
-            <element signature="e#1452#1453#0" expanded="false" />
-            <element signature="e#1511#1512#0" expanded="false" />
-            <element signature="e#1566#1567#0" expanded="false" />
-            <element signature="e#1625#1626#0" expanded="false" />
-            <element signature="e#1675#1676#0" expanded="false" />
-            <element signature="e#1728#1729#0" expanded="false" />
-            <element signature="e#1784#1785#0" expanded="false" />
-            <element signature="e#1844#1845#0" expanded="false" />
-            <element signature="e#1900#1901#0" expanded="false" />
-            <element signature="e#1960#1961#0" expanded="false" />
-            <element signature="e#2013#2014#0" expanded="false" />
-            <element signature="e#2071#2072#0" expanded="false" />
-            <element signature="e#2122#2123#0" expanded="false" />
-            <element signature="e#2176#2177#0" expanded="false" />
-            <element signature="e#2274#2275#0" expanded="false" />
-            <element signature="e#2316#2317#0" expanded="false" />
-            <element signature="e#2668#2669#0" expanded="false" />
-            <element signature="e#2699#2700#0" expanded="false" />
-            <element signature="e#3965#3966#0" expanded="false" />
-            <element signature="e#4011#4012#0" expanded="false" />
-            <element signature="e#5230#5231#0" expanded="false" />
-            <element signature="e#5278#5279#0" expanded="false" />
-            <element signature="e#5405#5406#0" expanded="false" />
-            <element signature="e#5453#5454#0" expanded="false" />
-            <element signature="e#5590#5591#0" expanded="false" />
-            <element signature="e#5637#5638#0" expanded="false" />
-            <element signature="e#5768#5769#0" expanded="false" />
-            <element signature="e#5810#5811#0" expanded="false" />
-            <element signature="e#5933#5934#0" expanded="false" />
-            <element signature="e#5975#5976#0" expanded="false" />
-            <element signature="e#6103#6104#0" expanded="false" />
-            <element signature="e#6150#6151#0" expanded="false" />
-            <element signature="e#8624#8625#0" expanded="false" />
-            <element signature="e#8665#8666#0" expanded="false" />
-            <element signature="e#8770#8771#0" expanded="false" />
-            <element signature="e#8806#8807#0" expanded="false" />
-            <element signature="e#8902#8903#0" expanded="false" />
-            <element signature="e#8938#8939#0" expanded="false" />
-            <element signature="e#9007#9008#0" expanded="false" />
-            <element signature="e#9052#9053#0" expanded="false" />
-            <element signature="e#9123#9124#0" expanded="false" />
-            <element signature="e#9163#9164#0" expanded="false" />
-            <element signature="e#9248#9249#0" expanded="false" />
-            <element signature="e#9303#9304#0" expanded="false" />
-            <element signature="e#9422#9423#0" expanded="false" />
-            <element signature="e#9456#9457#0" expanded="false" />
-            <element signature="e#9575#9576#0" expanded="false" />
-            <element signature="e#9624#9625#0" expanded="false" />
-            <element signature="e#9757#9758#0" expanded="false" />
-            <element signature="e#9796#9797#0" expanded="false" />
-            <element signature="e#9930#9931#0" expanded="false" />
-            <element signature="e#9984#9985#0" expanded="false" />
-            <element signature="e#10053#10054#0" expanded="false" />
-            <element signature="e#10077#10078#0" expanded="false" />
-            <element signature="e#12076#12077#0" expanded="false" />
-            <element signature="e#12100#12101#0" expanded="false" />
-            <element signature="e#16226#16227#0" expanded="false" />
-            <element signature="e#16273#16274#0" expanded="false" />
-            <element signature="e#23050#23051#0" expanded="false" />
-            <element signature="e#23099#23100#0" expanded="false" />
-            <element signature="e#23628#23629#0" expanded="false" />
-            <element signature="e#23660#23661#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/date/FormatConfig.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/primative/SetTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/primative/HashMapTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        <state relative-caret-position="285">
+          <caret line="15" column="26" lean-forward="false" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/primative/SplitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <element signature="e#180#181#0" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/date/DateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
           <folding />
         </state>
       </provider>
@@ -1789,34 +1649,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="16" column="7" lean-forward="false" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#228#229#0" expanded="false" />
-            <element signature="e#295#296#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lambda/OptionalOfNullable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="8" column="3" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/primative/SetTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/date/DateUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        <state relative-caret-position="8877">
+          <caret line="560" column="23" lean-forward="false" selection-start-line="560" selection-start-column="23" selection-end-line="560" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/primative/HashMapTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/date/FormatConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        <state relative-caret-position="190">
+          <caret line="10" column="50" lean-forward="true" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
           <folding />
         </state>
       </provider>

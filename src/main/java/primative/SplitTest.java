@@ -8,6 +8,6 @@ package primative;/**
  */
 public class SplitTest {
     public static void main(String[] args) {
-        System.out.println("".split(";").length);
+        System.out.println("1".split(";").length);
     }
 }
