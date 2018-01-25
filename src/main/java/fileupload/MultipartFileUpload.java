@@ -6,7 +6,7 @@ package fileupload;/**
 import exception.FileFormatException;
 import exception.FileNumException;
 import exception.FileSizeException;
-import org.apache.commons.collections4.CollectionUtils;
+import org.apache.commons.collections.CollectionUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.web.multipart.MultipartFile;
