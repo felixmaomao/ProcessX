@@ -12,5 +12,7 @@ public class DateTest {
     public static void main(String[] args){
         Date date= DateUtil.preDate(0);
         System.out.println(date.toString());
+
+        System.out.println(DateUtil.getPreDateByHm(0, 10));
     }
 }

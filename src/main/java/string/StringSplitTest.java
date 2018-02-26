@@ -2,6 +2,8 @@ package string;/**
  * Created by shenwei on 2017/5/16.
  */
 
+import date.DateUtil;
+
 import java.util.Arrays;
 
 /**
@@ -17,5 +19,7 @@ public class StringSplitTest {
         System.out.println("33".replace("3", "胜"));
 
         System.out.println(Arrays.stream("33".split("")).reduce((r1, r2) -> r1 + ":" + r2).get());
+
+
     }
 }
