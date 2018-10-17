@@ -3,6 +3,7 @@ package string;/**
  */
 
 import date.DateUtil;
+import org.apache.commons.lang.StringUtils;
 
 import java.util.Arrays;
 
@@ -20,6 +21,16 @@ public class StringSplitTest {
 
         System.out.println(Arrays.stream("33".split("")).reduce((r1, r2) -> r1 + ":" + r2).get());
 
+        System.out.println(StringUtils.isEmpty(""));
 
+        String sessionUrl="https://zoom.us/j/123321?test";
+        String browser="epic";
+        sessionUrl= sessionUrl + "?browser=" + browser;
+        System.out.println(sessionUrl);
+
+        System.out.println("111");
+        System.out.println(sessionUrl.contains("?"));
+
+        System.out.println("mydomain.com".split(",")[0]);
     }
 }
